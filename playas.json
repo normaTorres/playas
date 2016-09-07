@@ -1,0 +1,57 @@
+{
+  "playas": {
+   "apiversion":0.1,
+      "placesListPlayas":[
+    {
+      "placeId":0,
+      "placeName": "Playa el tunco",
+     
+          "latitude": 13.4945714,
+          "longitude": -89.3835828
+       
+      },
+    {
+      "placeId":1,
+      "placeName": "Costa del Sol",
+     
+          "latitude": 13.3336537,
+          "longitude": -88.9809748
+          
+    },
+    {
+      "placeId":2,
+      "placeName": "El Cuco",
+      
+          "latitude": 13.1724864,
+          "longitude": -88.1066175
+          
+    },
+    {
+      "placeId":3,
+      "placeName": "El Zonte",
+      
+          "latitude": 13.4974163,
+          "longitude": -89.44258751
+         
+    },
+    {
+      "placeId":4,
+      "placeName": "Los Cobanos",
+      
+          "latitude": 13.5250205,
+          "longitude": -89.8054429
+         
+    },
+    {
+      "placeId":5,
+      "placeName": "Mizata",
+       
+          "latitude": 13.5104031,
+          "longitude": -89.5986808
+       
+    },
+    
+    
+  ]
+  }
+}
